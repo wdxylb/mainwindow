@@ -1,5 +1,6 @@
 ﻿// mainwindow.cpp : 定义应用程序的入口点。
 //这里有很多注释
+//这里也是
 
 #include "framework.h"
 #include "mainwindow.h"
